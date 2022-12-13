@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently pursuing Btech CSE 
 - 👯 I’m looking to collaborate on projects
-- 💬 Ask me about  Sql, HTML, C++, CSS
+- 💬 Ask me about  HTML,CSS,Javascript,Sql(Mysql/MongoDB),C++,Python
 
 
 
