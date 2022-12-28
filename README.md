@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I'm Swathi</h1>
-# 💫 About Me:
+
+## 💫 About Me:
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on projects<br>🌱 I’m addicted to learning and growing every day<br>💬 Ask me about ML,DS,Web dev<br>
 
 
