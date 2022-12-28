@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Swathi</h1>
+<h1 align="center">Hi there, I'm Swathi</h1>
 
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on projects<br>🌱 I’m addicted to learning and growing every day<br>💬 Ask me about ML,DS,Web dev<br>
