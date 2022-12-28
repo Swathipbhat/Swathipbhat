@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Swathi</h1>
-<h3 align="center">Software Engineer | Machine Learning Enthusiast</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on projects<br>🌱 I’m addicted to learning and growing every day<br>💬 Ask me about ML,DS,Web dev<br>
@@ -32,8 +31,6 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Swathipbhat&icon=0&color=5)](https://visitcount.itsvg.in)
