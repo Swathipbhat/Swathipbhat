@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm Swathi</h1>
-<center>[![](https://visitcount.itsvg.in/api?id=Swathipbhat&icon=0&color=5)](https://visitcount.itsvg.in)</center>
+## Hi there, I'm Swathi
+
 ## 💫 About Me:
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on projects<br>🌱 I’m addicted to learning and growing every day<br>💬 Ask me about ML,DS,Web dev<br>
 
