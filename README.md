@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi there, I'm Swathi </h1>
 
 ## 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on projects<br>🌱 I’m addicted to learning and growing every day<br>💬 Ask me about ML,DS,Web dev<br>
+I am a software engineer with over 2 years of professional experience, currently working at Bank of America implementing production ready codes and solving bugs caused at production. Support internal audit and collaborate with multiple teams to provide consistent deliverables. 
 
 
 ## 🌐 Socials:
